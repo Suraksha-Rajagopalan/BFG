@@ -1,0 +1,43 @@
+﻿Patient ID,Age,Sex,Handedness,TumorLocation,TumorSize,TumorPathology,Motor,Language
+RS 001,31,M,NA,Rght frontal lobe,70,Oligodendroglioma,1,0
+RS 002,27,M,NA,Left frontal lobe,11.7,Oligoastrocytoma,1,0
+RS 003,44,M,R,Left basal ganglia / Left temporal lobe,8.7 / 4.8,Glioblastoma,1,1
+RS 004,24,M,R,Left frontal lobe,56.2,Anaplastic glioma,1,1
+RS 005,36,M,NA,Left frontal lobe /Left frontal lobe,1.2 / 0.2,Anaplastic mixed oligoastrocytoma,1,1
+RS 006,36,M,NA,Left inferior frontal lobe,81.1,Anaplastic mixed oligoastrocytoma,1,1
+RS 007,64,M,R,Left parieto-occipital,85.1,Glioblastoma,1,1
+RS 009,65,F,R,Left peri-trigonal area,147,Glioblastoma,1,1
+RS 010,50,F,NA,Right peritrigonal area,15.5,Anaplastic astrocytoma,1,0
+RS 011,24,M,R,Left frontotemporal,56.4,Mixed oligoastrocytoma,1,1
+RS 012,42,M,R,Left frontal lobe,7.8,Anaplastic oligodendroglioma,1,1
+RS 013,65,F,NA,Right frontal lobe,8.5,Oligodendroglioma,1,0
+RS 014,44,M,R,Left frontal/insular lobe,69.2,Oligodendroglioma,1,1
+RS 015,62,F,NA,Left frontal lobe,34.7,Mixed oligoastrocytoma,1,1
+RS 016,57,F,NA,Left insula,15.2,Glioblastoma,1,1
+RS 017,54,M,R,Left frontal lobe,64.3,Mixed oligoastrocytoma,1,1
+RS 018,39,F,R,Left frontal lobe,13.5,Oligodendroglioma,1,1
+RS 019,33,F,R,Right frontoparietal,207,Anaplastic oligodendroglioma,1,1
+RS 020,53,F,R,Left temporal lobe,19.9,Glioblastoma,0,1
+RS 021,25,M,R,Left frontal lobe,63.3,Mixed oligoastrocytoma,1,1
+RS 022,67,M,NA,Right frontal lobe,2.2,Metastatic lung carcinoma,1,1
+RS 023,50,F,R,Left parietal/splenium,28.7,Oligodendroglioma,1,1
+RS 024,56,M,R,Left frontal lobe,4.7,Anaplastic oligoastrocytoma,1,1
+RS 027,45,M,L,Left temporal lobe,24.8,Low-grade diffuse glioma,0,1
+RS 028,64,M,NA,Left parietal lobe,50.1,Glioblastoma,1,0
+RS 029,52,M,R,Left frontal lobe,14.5,Oligodendroglioma,1,1
+RS 030,71,M,R,Right basal ganglia/thalamus,16.6,Glioblastoma,1,1
+RS 031,53,F,NA,Left thalamus,5.8,Glioblastoma,1,1
+RS 032,46,M,R,Right temporal lobe,5.7,Glioblastoma,1,1
+RS 033,37,M,R,Left frontal lobe,185,Mixed oligoastrocytoma,1,1
+RS 034,58,F,NA,Left temporal lobe,24.9,Meningioma,0,1
+RS 035,28,F,R,Left temporal lobe,10.1,Oligoastrocytoma,1,1
+RS 036,48,M,NA,Left frontal lobe,20.6,Glioblastoma,1,0
+RS 039,25,M,L,Right parietal lobe,32,Mixed oligoastrocytoma,1,1
+RS040,39,F,R,Right slyvian fissure,31.5,Ependymoma,0,1
+RS 041,40,M,NA,Left frontal lobe,23.3,Mixed oligoastrocytoma,1,1
+RS 042,60,M,R,Left parietal lobe,0.7,Glioblastoma,1,1
+RS 043,33,M,R,Right temporal lobe,4,Low-grade glioneuronal tumor,1,1
+Rs 044,23,M,R,Left frontal lobe,0.4,Ganglioglioma,1,1
+RS 045,28,F,L,Bilateral frontal lobes (left>right),118,Anaplastic astrocytoma,1,1
+RS 047,55,M,NA,Left frontal lobe,66.2,Glioblastoma,1,1
+,,,,,,,37,35

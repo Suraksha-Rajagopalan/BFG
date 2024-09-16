@@ -1,0 +1,23 @@
+% Read patient data from CSV file
+patient_data = readtable('C:\Users\araku\OneDrive\Desktop\patient_demographics.csv');
+
+% Define ROIs based on the number of brain regions in your correlation matrix
+ROIs = {'Frontal', 'Temporal', 'Parietal', 'Occipital'};  % Adjust as needed
+
+% Generate hypothetical time series data (replace this with your real fMRI data processing)
+num_ROIs = numel(ROIs);
+num_timepoints = height(patient_data); % Assuming each row corresponds to a timepoint
+time_series_data = randn(num_ROIs, num_timepoints); % Hypothetical data, replace with actual fMRI data
+
+% Correlation matrix
+correlation_matrix = corrcoef(time_series_data);
+
+% Thresholding
+threshold = 0.5;
+correlation_matrix(correlation_matrix < threshold) = 0;
+G = graph(correlation_matrix, 'OmitSelfLoops');
+
+% Plot the graph
+figure;
+plot(G, 'Layout', 'force', 'MarkerSize', 10);
+title('Brain Functional Connectivity Graph');
